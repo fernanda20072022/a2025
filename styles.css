@@ -108,12 +108,12 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/aul2.webp') bottom right no-repeat;
+    background: url('') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
 #contato {
-    background-image: url('');
+    background-image: url('img/aul2.webp');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
