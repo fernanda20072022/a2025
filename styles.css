@@ -80,7 +80,7 @@ section {
     margin-top: 3rem;
     margin-bottom: 3rem;
     background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
+        url('') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -113,7 +113,7 @@ h2 {
 }
 
 #contato {
-    background-image: url('img/aul2.webp');
+    background-image: url('');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
