@@ -30,7 +30,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/azul.jpg');
+    background-image: url('img/aul2.webp');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -113,7 +113,7 @@ h2 {
 }
 
 #contato {
-    background-image: url('img/azul.jpg');
+    background-image: url('img/aul2.webp');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
